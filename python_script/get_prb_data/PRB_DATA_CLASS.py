@@ -10,8 +10,7 @@ import pickle
 import Node_Test_Main
 # print(Time)
 IP = '10.101.87.52'
-# IP = '10.87.0.51'
-# IP = '10.102.87.42'
+
 
 Totle = 5180
 # Node_Test_Main.GET_BJ_TIME()
